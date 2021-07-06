@@ -13,11 +13,11 @@ package zinc.test.dir1
  * @待优化： -
  * @待解决： -
  */
-class TestClass {
+class TestClass1 {
   fun testMethod11(){
   
   }
-  fun testMethod22(){
+  fun testMethod12(){
   
   }
 }
