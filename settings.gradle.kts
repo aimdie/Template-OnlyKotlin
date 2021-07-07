@@ -1,4 +1,4 @@
 
 //rootProject.name = ""
 
-include(":testModule")
+include(":module")

@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "kill.vanity"
-version = "29.1.1"
+version = "29.7.7"
 
 dependencies {
   implementation("org.jetbrains.kotlin:kotlin-stdlib-common:1.5.0")

@@ -4,7 +4,7 @@ val mLicenseName = "The Apache License, Version 2.0"
 val mLicenseUrl = "http://www.apache.org/licenses/LICENSE-2.0.txt"
 
 val mArtifactId = "lib-test"
-val mLibVersion = "29.1.1"
+val mLibVersion = "29.7.7"
 val mLibName = "Lib Test"
 val mLibDescription = "类库。"
 val mLibUrl = "git@github.com:aimdie/Test.git"
